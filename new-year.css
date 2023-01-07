@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.m-bg{
+    background-image: url(images/banner/banner3.png);
+    height: 800px;
+    background-position: center;
+
+}
